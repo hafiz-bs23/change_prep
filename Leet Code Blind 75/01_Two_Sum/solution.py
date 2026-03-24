@@ -1,15 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
 # Brute force solution
 def twoSum(nums, target):
     for opening_index in range(len(nums)-1):
